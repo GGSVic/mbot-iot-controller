@@ -187,4 +187,6 @@ Any issues encountered when rebuilding the project should generally be minor and
 
 **Period:** March 2023 – June 2023
 
+You can check the original documentation and project report in the wiki section!
+
 ---
