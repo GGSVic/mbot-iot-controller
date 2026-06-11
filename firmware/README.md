@@ -71,14 +71,3 @@ Responsibilities:
 - Execute concurrent tasks using FreeRTOS.
 
 This file should be uploaded to the Arduino Mega.
-
----
-
-## Notes
-
-This firmware was developed as part of the course:
-
-**Diseño de Sistemas en Chip**  
-March – June 2023
-
-The code is preserved as an academic project archive and is no longer under active development.
